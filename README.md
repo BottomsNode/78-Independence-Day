@@ -25,4 +25,4 @@ To get started with this project, follow the instructions below.
    git clone https://github.com/yourusername/celebrating-independence-day-2024.git
    ```
 
-# **Best Wishes of Independence Day 2024!** - by Nishit Shivdasani
+ **Best Wishes of Independence Day 2024!** - by Nishit Shivdasani
